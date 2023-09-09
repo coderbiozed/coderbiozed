@@ -33,10 +33,12 @@
 <!-- Let's Connect -->
 <h3 align="center">📫 Let's Connect</h3>
 <p align="center">
-  💼 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/biozedhossain/">Biozed Hossain</a><br>
+  💼 Connect with me on LinkedIn: <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADAF0scB8QY7TEQgpyqPradzTk4tabYpSYk&keywords=biozed%20hossain&origin=RICH_QUERY_SUGGESTION&position=0&searchId=70bf88f4-6355-41e5-96c0-492e5cd84a36&sid=wXV">Biozed Hossain</a><br>
   🐦 Follow me on Youtube : <a href="https://youtube.com/@learnwithbiozed">LearnCode</a><br>
   📧 Email me: biozed@sowdream.com
 </p>
+
+
 
 <!-- Closing Thoughts -->
 <h3 align="center">✨ Let's Build Something Amazing Together!</h3>
