@@ -8,9 +8,9 @@ I'm a passionate programmer with a keen interest in web development and an expan
 
 ### 📫 Connect with Me
 
-- GitHub: [biozedhossain](https://github.com/biozedhossain)
+- GitHub: [biozedhossain](https://github.com/coderbiozed)
 - Twitter: [biozedhossain](https://twitter.com/biozedhossain)
-- LinkedIn: [Biozed Hossain](https://www.linkedin.com/in/biozedhossain/)
+- LinkedIn: [Biozed Hossain](https://www.linkedin.com/biozedhossain/)
 - Email: biozed@example.com
 
 I'm excited to be part of the coding community and continuously expand my knowledge and skills. Let's connect and build amazing things together! 😄🚀
