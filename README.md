@@ -9,7 +9,7 @@ I'm a passionate programmer with a keen interest in web development and an expan
 ### 📫 Connect with Me
 
 - GitHub: [biozedhossain](https://github.com/coderbiozed)
-- Twitter: [biozedhossain](https://twitter.com/biozedhossain)
+- Google: [biozedhossain](https://google.com/biozedhossain)
 - LinkedIn: [Biozed Hossain](https://www.linkedin.com/biozedhossain/)
 - Email: biozed@example.com
 
