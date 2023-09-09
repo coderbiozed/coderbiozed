@@ -10,7 +10,7 @@ I'm a passionate programmer with a keen interest in web development and an expan
 - GoogleImage: [biozedPicture](https://www.google.com/search?sca_esv=563950002&sxsrf=AB5stBhUPLEjOm2g6sN1HKzQVUsUk1TDzA:1694244616825&q=biozed+hossain&tbm=isch&source=lnms&sa=X)
 - GitHub: [biozedhossain](https://github.com/coderbiozed)
 - Google: [biozedhossain](https://www.google.com/search?q=biozed+hossain)
-- LinkedIn: [Biozed Hossain](https://www.linkedin.com/in/biozedhossain/)
+- LinkedIn: [Biozed Hossain](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - Email: biozed@example.com
 
 I'm excited to be part of the coding community and continuously expand my knowledge and skills. Let's connect and build amazing things together! 😄🚀
