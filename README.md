@@ -11,6 +11,6 @@ I'm a passionate programmer with a keen interest in web development and an expan
 - GitHub: [biozedhossain](https://github.com/coderbiozed)
 - Google: [biozedhossain](https://www.google.com/search?q=biozed+hossain)
 - LinkedIn: [Biozed Hossain](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-- Email: biozed@example.com
+- Email: biozed@sowdream.com
 
 I'm excited to be part of the coding community and continuously expand my knowledge and skills. Let's connect and build amazing things together! 😄🚀
