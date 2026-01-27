@@ -30,6 +30,37 @@
   🚀 Collaborating on exciting projects with fellow developers.
 </p>
 
+<!-- Featured Projects -->
+<h3 align="center">🚀 Featured Projects & Live Demos</h3>
+<p align="center">
+  I love turning ideas into real-world web applications that solve problems and improve user experience.  
+  Here are some of my highlighted live projects showcasing my skills in performance optimization, UI design, and automation:
+</p>
+
+<p align="center">
+  🌱 <b>Olys Organic Intelligence</b><br>
+  A smart web solution focused on organic business intelligence and clean UI design.<br>
+  👉 <a href="https://coderbiozed.github.io/OlysOrganic-Intelligency/" target="_blank">View Live Project</a>
+</p>
+
+<p align="center">
+  🌙 <b>Ramadan Calendar Web App</b><br>
+  A digital Ramadan calendar designed for smooth user experience and accessibility.<br>
+  👉 <a href="https://olys-ramadan-calendar.web.app/" target="_blank">View Live Project</a>
+</p>
+
+<p align="center">
+  ✈️ <b>Travel Calendar App</b><br>
+  A lightweight travel planning calendar built for fast performance and simplicity.<br>
+  👉 <a href="https://travelcalender.vercel.app/" target="_blank">View Live Project</a>
+</p>
+
+<p align="center">
+  These projects demonstrate my passion for building practical, user-friendly, and performance-optimized web applications.  
+  I focus on clean code, SEO-friendly structure, and smooth user interactions.
+</p>
+
+
 <!-- Let's Connect -->
 <h3 align="center">📫 Let's Connect</h3>
 <p align="center">
