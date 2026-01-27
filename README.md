@@ -78,3 +78,89 @@
   I am always excited to collaborate on meaningful projects involving web development, automation, and performance optimization.  
   Let’s connect and create innovative digital solutions that make a real impact. 🚀
 </p>
+
+
+👋 Hi, I'm Biozed Hossain
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Automation+Engineer;SEO+%26+Performance+Specialist;Building+Scalable+Web+Solutions" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=coderbiozed&label=Profile%20Views&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/coderbiozed?label=Followers&style=for-the-badge"/> <img src="https://img.shields.io/github/stars/coderbiozed?label=Stars&style=for-the-badge"/> </p>
+🧑‍💻 About Me
+
+🚀 I am a Full Stack Web Developer specializing in building high-performance web applications, automation systems, and SEO-optimized platforms.
+
+I’ve worked on enterprise-level projects including:
+
+🌍 Full Stack Development → topasiafx.com
+
+🔍 Open Search API Integration → travelarii.com
+
+📊 Large-scale Data Migration → assetsfx.com
+
+I focus on writing clean, scalable code and delivering fast, reliable digital solutions.
+
+⚙️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,mysql,postgres,git,github,linux" /> </p>
+🏆 Achievements
+
+✨ Built automation scripts for sitemap URL validation & SEO cleanup
+✨ Reduced DOM size & improved performance (LCP, TBT, CLS)
+✨ Implemented Open Search API for travel search platform
+✨ Migrated large datasets for broker platforms
+✨ Optimized mega menu for high-traffic websites
+✨ Improved backend response time from 575ms → under 200ms
+
+🌐 Featured Projects (Live)
+
+🚀 Olys Organic Intelligence
+🔗 https://coderbiozed.github.io/OlysOrganic-Intelligency/
+
+🕌 Ramadan Calendar App
+🔗 https://olys-ramadan-calendar.web.app/
+
+🧳 Travel Calendar App
+🔗 https://travelcalender.vercel.app/
+
+🏢 Professional Experience
+💼 Full Stack Developer – TopAsiaFX
+
+Developed frontend & backend modules
+
+Implemented SEO automation scripts
+
+Optimized mega menu DOM size
+
+Improved site performance & load time
+
+🔎 API Integration – Travelarii.com
+
+Built Open Search API
+
+Structured URL slug architecture
+
+Enhanced search performance
+
+📊 Data Migration – AssetsFX.com
+
+Migrated broker data at scale
+
+Validated URLs & cleaned SEO records
+
+Maintained data integrity
+
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=coderbiozed&show_icons=true&theme=radical" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderbiozed&theme=radical" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderbiozed&layout=compact&theme=radical"/> </p>
+📫 Let’s Connect
+<p align="center"> <a href="https://www.linkedin.com/search/results/all/?keywords=biozed%20hossain"> <img src="https://img.shields.io/badge/LinkedIn-Biozed_Hossain-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="https://youtube.com/@learnwithbiozed"> <img src="https://img.shields.io/badge/YouTube-LearnWithBiozed-red?style=for-the-badge&logo=youtube"/> </a> <a href="mailto:biozed@sowdream.com"> <img src="https://img.shields.io/badge/Email-biozed@sowdream.com-green?style=for-the-badge&logo=gmail"/> </a> </p>
+🚧 Currently Working On
+
+⚡ SEO automation scripts
+⚡ Performance optimization (DOM, LCP, TBT)
+⚡ Full stack Laravel applications
+⚡ API-driven platforms
+⚡ Data migration & cleanup tools
+
+🎯 Career Objective
+
+To contribute as a Full Stack Developer in a forward-thinking organization where I can build scalable systems, optimize performance, and deliver high-impact digital solutions.
+
+✨ Motto
+
+“Clean code, fast systems, and meaningful products.”
