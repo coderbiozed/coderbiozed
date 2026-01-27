@@ -30,49 +30,38 @@
   🚀 Collaborating on exciting projects with fellow developers.
 </p>
 
-<!-- Featured Projects -->
 <h3 align="center">🚀 Featured Projects & Live Demos</h3>
 <p align="center">
-  I love turning ideas into real-world web applications that solve problems and improve user experience.  
-  Here are some of my highlighted live projects showcasing my skills in performance optimization, UI design, and automation:
+  Below are some of my highlighted projects that demonstrate my skills in web development, performance optimization, and automation:
 </p>
 
 <p align="center">
   🌱 <b>Olys Organic Intelligence</b><br>
-  A smart web solution focused on organic business intelligence and clean UI design.<br>
+  A modern web platform focused on clean design and optimized performance for organic business intelligence.<br>
   👉 <a href="https://coderbiozed.github.io/OlysOrganic-Intelligency/" target="_blank">View Live Project</a>
 </p>
 
 <p align="center">
   🌙 <b>Ramadan Calendar Web App</b><br>
-  A digital Ramadan calendar designed for smooth user experience and accessibility.<br>
+  A digital Ramadan calendar designed with user-friendly interface and smooth performance.<br>
   👉 <a href="https://olys-ramadan-calendar.web.app/" target="_blank">View Live Project</a>
 </p>
 
 <p align="center">
   ✈️ <b>Travel Calendar App</b><br>
-  A lightweight travel planning calendar built for fast performance and simplicity.<br>
+  A lightweight and fast travel planning calendar application built for simplicity and usability.<br>
   👉 <a href="https://travelcalender.vercel.app/" target="_blank">View Live Project</a>
 </p>
 
+<h3 align="center">📫 Let’s Connect</h3>
 <p align="center">
-  These projects demonstrate my passion for building practical, user-friendly, and performance-optimized web applications.  
-  I focus on clean code, SEO-friendly structure, and smooth user interactions.
+  💼 LinkedIn: <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADAF0scB8QY7TEQgpyqPradzTk4tabYpSYk&keywords=biozed%20hossain">Biozed Hossain</a><br>
+  🎥 YouTube: <a href="https://youtube.com/@learnwithbiozed">LearnCode</a><br>
+  📧 Email: biozed@sowdream.com
 </p>
 
-
-<!-- Let's Connect -->
-<h3 align="center">📫 Let's Connect</h3>
+<h3 align="center">✨ Let’s Build Something Great Together</h3>
 <p align="center">
-  💼 Connect with me on LinkedIn: <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADAF0scB8QY7TEQgpyqPradzTk4tabYpSYk&keywords=biozed%20hossain&origin=RICH_QUERY_SUGGESTION&position=0&searchId=70bf88f4-6355-41e5-96c0-492e5cd84a36&sid=wXV">Biozed Hossain</a><br>
-  🐦 Follow me on Youtube : <a href="https://youtube.com/@learnwithbiozed">LearnCode</a><br>
-  📧 Email me: biozed@sowdream.com
-</p>
-
-
-
-<!-- Closing Thoughts -->
-<h3 align="center">✨ Let's Build Something Amazing Together!</h3>
-<p align="center">
-  Whether it's web development, Python scripting, or database wizardry, I'm always up for a coding adventure. Let's connect, collaborate, and create remarkable digital experiences that leave a lasting impact! 🚀
+  I am always excited to collaborate on meaningful projects involving web development, automation, and performance optimization.  
+  Let’s connect and create innovative digital solutions that make a real impact. 🚀
 </p>
