@@ -37,27 +37,40 @@
 
 <p align="center">
   🌱 <b>Olys Organic Intelligence</b><br>
-  A modern web platform focused on clean design and optimized performance for organic business intelligence.<br>
+  A modern web platform focused on clean design and optimized for organic business intelligence.<br>
+  👉 <a href="https://coderbiozed.github.io/OlysOrganic-Intelligency/" target="_blank">View Live Project</a>
+</p>
+
+<p align="center">
+  🌱 <b>Olys Organic Intelligence</b><br>
+  A modern web platform focused on clean design and optimized for organic business intelligence.<br>
   👉 <a href="https://coderbiozed.github.io/OlysOrganic-Intelligency/" target="_blank">View Live Project</a>
 </p>
 
 <p align="center">
   🌙 <b>Ramadan Calendar Web App</b><br>
-  A digital Ramadan calendar designed with user-friendly interface and smooth performance.<br>
+  A digital Ramadan calendar designed with user-friendly interface<br>
   👉 <a href="https://olys-ramadan-calendar.web.app/" target="_blank">View Live Project</a>
 </p>
 
 <p align="center">
   ✈️ <b>Travel Calendar App</b><br>
-  A lightweight and fast travel planning calendar application built for simplicity and usability.<br>
+  A lightweight and fast travel planning calendar application<br>
   👉 <a href="https://travelcalender.vercel.app/" target="_blank">View Live Project</a>
+</p>
+
+<p align="center">
+  ✈️ <b>Krishiseba Organization</b><br>
+  A lightweight and fast organization Register Site<br>
+  👉 <a href="https://krishiseba.onrender.com" target="_blank">View Live Project</a>
 </p>
 
 <h3 align="center">📫 Let’s Connect</h3>
 <p align="center">
-  💼 LinkedIn: <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADAF0scB8QY7TEQgpyqPradzTk4tabYpSYk&keywords=biozed%20hossain">Biozed Hossain</a><br>
+  💼 PortFolio: <a href="https://coderbiozed.github.io/topasiadev/">Biozed Hossain</a><br>
   🎥 YouTube: <a href="https://youtube.com/@learnwithbiozed">LearnCode</a><br>
   📧 Email: biozed@sowdream.com
+  📧 Email Personal: biozedhossain1@gmail.com 
 </p>
 
 <h3 align="center">✨ Let’s Build Something Great Together</h3>
