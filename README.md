@@ -10,8 +10,8 @@
 </p>
 
 ---
+<h2 align="center">✨🧑‍💻 Professional Summary 🧑‍💻✨</h2>
 
-### 🧑‍💻 Professional Summary
 
 I am a **Full Stack Web Developer** dedicated to building high-performance applications, sophisticated automation systems, and SEO-optimized digital platforms. My focus lies in writing clean, maintainable code that drives business value.
 
@@ -20,7 +20,8 @@ I am a **Full Stack Web Developer** dedicated to building high-performance appli
 * 🌍 **Enterprise Experience:** Delivered solutions for *TopAsiaFX*, *Travelarii*,*pipsHunt* and *AssetsFX*.
 
 ---
-### 🌍 Enterprise Experience
+<h2 align="center">✨🌍 Enterprise Experience 🌍✨</h2>
+
 
 I have engineered core systems and performance solutions for high-traffic platforms:
 
@@ -30,8 +31,8 @@ I have engineered core systems and performance solutions for high-traffic platfo
 * 💾 **[AssetsFX](https://assetsfx.com)** – Enterprise data migration & SEO validation.
 
 --- 
+<h2 align="center">✨🛠️ Tech Stack & Tools 🛠️✨</h2>
 
-### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,mysql,postgres,git,github,linux,docker,postman,tailwind" />
@@ -39,8 +40,8 @@ I have engineered core systems and performance solutions for high-traffic platfo
 
 ---
 
+<h3 align="center">✨🏆 Key Achievements & Impac 🏆✨</h3>
 
-### 🏆 Key Achievements & Impact
 
 | Achievement | Impact |
 | :--- | :--- |
@@ -52,8 +53,8 @@ I have engineered core systems and performance solutions for high-traffic platfo
 ---
 
 ---
+<h3 align="center">✨📜 Certifications & Professional Training✨</h3>
 
-### 📜 Certifications & Professional Training
 
 | Certification | Issuing Organization | Verification |
 | :--- | :--- | :---: |
@@ -64,8 +65,7 @@ I have engineered core systems and performance solutions for high-traffic platfo
 
 ---
 
-
-### 📂 Featured Projects
+<h3 align="center">✨📂 Featured Projects✨</h3>
 
 | Project | Description | Live Demo |
 | :--- | :--- | :---: |
@@ -76,8 +76,7 @@ I have engineered core systems and performance solutions for high-traffic platfo
 
 ---
 
-### 📊 GitHub Analytics
-
+<h3 align="center">✨📊 GitHub Analytics✨</h3>
 
 
 <!-- Streak Stats -->
