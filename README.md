@@ -112,6 +112,24 @@ Bazar List isn't just a shopping tool; it’s your family’s partner in financi
 
 
 
+OlysProduct  | Stock & Sync
+
+The Intelligent Inventory Ledger
+
+Olysproduct Pro is a high-performance inventory management solution designed to bridge the gap between local retail tracking and cloud-based data analytics. By combining a lightning-fast local interface with automated Google Sheets integration, it provides business owners with a centralized, real-time view of their stock health, valuation, and logistics without the overhead of complex ERP systems.
+
+🚀 Key Features
+
+Real-time Synchronization: Powered by Firestore with onSnapshot for instant updates across all devices.
+
+Cloud Sheet Bridge: Automatically syncs every new product addition to a Google Spreadsheet.
+
+Visual Analytics: Live tracking of total inventory value and low-stock alerts.
+
+One-Click Export: Generate CSV reports of your current stock levels.
+
+Modern UI: High-fidelity interface with glassmorphism effects and responsive design.
+🔗 Live: https://coderbiozed.github.io/olysStockManager/
 
 
 <h3 align="center">✨📊 GitHub Analytics✨</h3>
