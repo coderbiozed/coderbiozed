@@ -52,6 +52,12 @@ I have engineered core systems and performance solutions for high-traffic platfo
 
 ---
 
+
+
+
+
+
+
 ---
 <h3 align="center">✨📜 Certifications & Professional Training✨</h3>
 
@@ -81,6 +87,32 @@ I have engineered core systems and performance solutions for high-traffic platfo
 
 
 ---
+🆓 My Free Apps
+🔹 Bazar List: Smart Monthly Expense Journal
+
+👉 Description:
+Bazar List is a premium, high-efficiency digital notebook designed for modern families to track monthly household expenses with precision. Developed under the Olysproduct brand, this app blends the nostalgic feel of a paper-and-pen journal with powerful cloud-sync technology.
+
+Key Features:
+Monthly Budgeting: Set a specific spending limit for each month and receive real-time status updates (On Track vs. Over Budget) as you shop.
+
+Motivational Family Quotes: Each month features a unique, hand-picked quote to inspire financial discipline and family harmony.
+
+Direct Google Sheets Integration: Say goodbye to complex setups. With one click, push your entire bazar list to your personal Google Sheet for permanent record-keeping.
+
+Smart "Clone" Feature: Save time by instantly copying your list from the previous month—perfect for those recurring grocery staples.
+
+Premium Design: Features a beautiful, "Oly'sProduct" watermarked paper texture, interactive check-off status for items, and a responsive layout for both mobile and desktop use.
+
+Offline Resilience: Your data is saved locally first, ensuring you never lose your list even if your internet connection drops while at the market.
+
+Bazar List isn't just a shopping tool; it’s your family’s partner in financial clarity and smarter living.
+
+🔗 Live: (https://bazarlist-easy.netlify.app/)
+
+
+
+
 
 <h3 align="center">✨📊 GitHub Analytics✨</h3>
 
