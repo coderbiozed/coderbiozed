@@ -10,7 +10,7 @@
 </p>
 
 ---
-<h2 align="center">✨🧑‍💻 Professional Summary 🧑‍💻✨</h2>
+<h2 align="center"> Professional Summary </h2>
 
 
 I am a **Full Stack Web Developer** dedicated to building high-performance applications, sophisticated automation systems, and SEO-optimized digital platforms. My focus lies in writing clean, maintainable code that drives business value.
@@ -20,7 +20,7 @@ I am a **Full Stack Web Developer** dedicated to building high-performance appli
 * 🌍 **Enterprise Experience:** Delivered solutions for *TopAsiaFX*, *Travelarii*,*pipsHunt* and *AssetsFX*.
 
 ---
-<h2 align="center">✨🌍 Enterprise Experience 🌍✨</h2>
+<h2 align="center">🌍 Enterprise Experience 🌍</h2>
 
 
 I have engineered core systems and performance solutions for high-traffic platforms:
@@ -31,7 +31,7 @@ I have engineered core systems and performance solutions for high-traffic platfo
 * 💾 **[AssetsFX](https://assetsfx.com)** – Enterprise data migration & SEO validation.
 
 --- 
-<h2 align="center">✨🛠️ Tech Stack & Tools 🛠️✨</h2>
+<h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
 
 
 <p align="left">
@@ -40,7 +40,7 @@ I have engineered core systems and performance solutions for high-traffic platfo
 
 ---
 
-<h3 align="center">✨🏆 Key Achievements & Impac 🏆✨</h3>
+<h3 align="center">🏆 Key Achievements & Impac 🏆</h3>
 
 
 | Achievement | Impact |
@@ -59,7 +59,7 @@ I have engineered core systems and performance solutions for high-traffic platfo
 
 
 ---
-<h3 align="center">✨📜 Certifications & Professional Training✨</h3>
+<h3 align="center">📜 Certifications & Professional Training</h3>
 
 
 | Certification | Issuing Organization | Verification |
@@ -71,7 +71,7 @@ I have engineered core systems and performance solutions for high-traffic platfo
 
 ---
 
-<h3 align="center">✨📂 Featured Projects✨</h3>
+<h3 align="center">📂 Featured Projects</h3>
 
 | Project | Description | Live Demo |
 | :--- | :--- | :---: |
@@ -118,7 +118,7 @@ The Intelligent Inventory Ledger
 
 Olysproduct Pro is a high-performance inventory management solution designed to bridge the gap between local retail tracking and cloud-based data analytics. By combining a lightning-fast local interface with automated Google Sheets integration, it provides business owners with a centralized, real-time view of their stock health, valuation, and logistics without the overhead of complex ERP systems.
 
-🚀 Key Features
+<strong>Key Features</strong>
 
 Real-time Synchronization: Powered by Firestore with onSnapshot for instant updates across all devices.
 
@@ -132,7 +132,7 @@ Modern UI: High-fidelity interface with glassmorphism effects and responsive des
 🔗 Live: https://coderbiozed.github.io/olysStockManager/
 
 
-<h3 align="center">✨📊 GitHub Analytics✨</h3>
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
 <!-- Streak Stats -->
@@ -141,7 +141,7 @@ Modern UI: High-fidelity interface with glassmorphism effects and responsive des
 
 
 
-<h3 align="center">✨ 📫 Let's Connect & Collaborate 📫✨</h3>
+<h3 align="center"> 📫 Let's Connect & Collaborate 📫</h3>
 <p align="center">
 <a href="https://coderbiozed.github.io/topasiadev/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 <a href="https://www.linkedin.com/search/results/all/?keywords=biozed%20hossain"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -149,5 +149,5 @@ Modern UI: High-fidelity interface with glassmorphism effects and responsive des
 <a href="mailto:biozed@sowdream.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h2 align="center">✨ _"Clean code, fast systems, and meaningful products."_ ✨</h2>
+<h2 align="center"> _"Clean code, fast systems, and meaningful products."_ </h2>
 
