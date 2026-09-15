@@ -84,6 +84,7 @@ I have engineered core systems and performance solutions for high-traffic platfo
 |**Mukamghor Hub**| Premium Store in Khulna City. | [🏢 View](https://coderbiozed.github.io/mukamghor/) |
 |**Ramadan Calendar**| Digital calendar. | [🏢 View](https://coderbiozed.github.io/ramadan-smart-calendar/) |
 |**Tour Planer**| Digital calendar. | [🏢 View](https://coderbiozed.github.io/travel-planer/) |
+|**AI language Learn**| Learn AI. | [🏢 View](https://coderbiozed.github.io/bai/) |
 
 
 ---
